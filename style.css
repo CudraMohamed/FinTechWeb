@@ -1,0 +1,163 @@
+body{
+    border: 45px solid aqua;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    margin: 7% 7%;
+}
+.body{
+    background-image: url(Laptops.jpg);
+    background-size: cover; 
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 9px 16px 0px 0px;
+    text-align: center;
+}
+a img{
+    margin-top: -px;
+}
+.home{
+    background: rgb(162,190,51);
+    margin-top: -11px;
+}
+nav ul li{
+    background-color: black;
+    margin: -11px 0px 0px 0px;
+    opacity: 50%;
+    padding-left: 50px;
+}
+.logo{
+    color: rgb(7, 8, 8) ;
+    margin: 15px 50%;
+}
+.logo span{
+    outline-color: aqua;
+}
+.motto{
+    margin-left: 20%;
+    margin-bottom: 10%;
+    color: rgb(211, 244, 81);
+}
+.box1{
+    height: 170px;
+    width: 200px;
+    background-color: rgb(162,190,51);
+}
+.box2{
+    height: 170px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: rgb(162,190,51);
+}
+.box3{
+    height: 170px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: rgb(162,190,51);
+}
+.box4{
+    height: 170px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: rgb(162,190,51);
+}
+.box{
+    display: flex;
+    margin: 0% 0% 0% 8.5%;
+}
+.box5{
+    height: 170px;
+    width: 200px;
+    background-color: white;
+}
+.box6{
+    height: 170px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: white;
+}
+.box7{
+    height: 170px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: white;
+}
+.box8{
+    height: 170px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: white;
+}
+.sub-box{
+    display: flex;
+    margin: 0% 0% 5% 8.5%;
+}
+.row1{
+    height: 130px;
+    width: 225px;
+    background-color: rgb(79, 79, 76);
+}
+.row2{
+    height: 130px;
+    width: 50px;
+    margin-left: 0px;
+    background-color: rgb(162,190,51);
+}
+.row3{
+    height: 130px;
+    width: 225px;
+    margin-left: 30px;
+    background-color: rgb(79, 79, 76);
+}
+.row4{
+    height: 130px;
+    width: 50px;
+    margin-left: 0px;
+    background-color: rgb(162,190,51);
+}
+.row5{
+    height: 130px;
+    width: 225px;
+    margin-left: 30px;
+    background-color: rgb(79, 79, 76);
+}
+.row6{
+    height: 130px;
+    width: 50px;
+    margin-left: 0px;
+    background-color: rgb(162,190,51);
+}
+.rows{
+    display: flex;
+    margin: 0% 0% 5% 8.5%;
+}
+.sect{
+    display: flex;
+    margin: 0% 0% 5% 8.5%;
+}
+.sect1{
+    height: 130px;
+    width: 50px;
+    margin-left: 0px;
+    background-color: rgb(162,190,51);
+}
+.sect2{
+    height: 130px;
+    width: 50px;
+    margin-left: 10px;
+    background-color: rgb(162,190,51);
+}
+.sect3{
+    height: 130px;
+    width: 50px;
+    margin-left: 10px;
+    background-color: rgb(162,190,51);
+}
+.quote{
+    background-image: url();
+}
